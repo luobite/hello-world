@@ -1,2 +1,3 @@
 # hello-world
-this is my first time to use git.
+这是我第一次使用GIT
+yeah
